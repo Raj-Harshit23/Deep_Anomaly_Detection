@@ -1,0 +1,6 @@
+https://drive.google.com/drive/folders/1WUl-lxIxv1HaXAEusrTLuPDkYv-hwQih?usp=sharing
+
+The above link has two folders- 
+The dataset folder should be present in the same folder as the code files (For all .ipynb other than cnn)
+The mvtec folder should be present as ./data/mvtec_anomaly_detection to run cnn.ipynb.
+The file of mv_tec dataset is used for uploading in the demo

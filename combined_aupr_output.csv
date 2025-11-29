@@ -1,0 +1,8 @@
+dataset                                   , devnet_aupr, focal_aupr , iforest_aupr, vdevnet_aupr
+annthyroid_21feat_normalised              , 0.92353836 , 0.757468226,  0.233614633,  0.932399607
+bank-additional-full_normalised           , 0.418451789, 0.409277481,  0.302392407,  0.585136409
+celeba_baldvsnonbald_normalised           , 0.211226447, 0.276001639,  0.063110906,  0.351894658
+census-income-full-mixed-binarized        , 0.258334928, 0.307804552,  0.075318232,  0.561446459
+creditcardfraud_normalised                , 0.695319104, 0.697766274,  0.132968096,  0.686218739
+KDD2014_donors_10feat_nomissing_normalised, 0.999440061, 0.999260322,  0.253669321,  1
+UNSW_NB15_traintest_backdoor              , 0.908572628, 0.624697328,  0.051287579,  0.939165616

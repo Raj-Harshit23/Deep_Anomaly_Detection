@@ -1,0 +1,8 @@
+dataset                                   , roc               , aupr
+annthyroid_21feat_normalised              , 0.9087875         , 0.7574682262391834
+bank-additional-full_normalised           , 0.7919132491022409, 0.4092774806505862
+celeba_baldvsnonbald_normalised           , 0.8950395284384826, 0.276001639395153
+census-income-full-mixed-binarized        , 0.7371730494160609, 0.30780455220035197
+creditcardfraud_normalised                , 0.9582262341125594, 0.6977662740241505
+KDD2014_donors_10feat_nomissing_normalised, 0.9996568353012569, 0.9992603216921936
+UNSW_NB15_traintest_backdoor              , 0.9210461853558628, 0.6246973282965375
